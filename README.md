@@ -3,8 +3,7 @@
   Olá, seja bem-vindo a documentação do BOT NUMB, desenvolvido especialmente para aprendizado e diversão dos usuários que lhe adicionam em seus servidores.
 </div><br>
 
-- <h2 class="tecn_utl"><img src="https://cdn.discordapp.com/emojis/849345877431681065.png?size=24"> Tecnologias utilizadas:</img></h2><br>
-
+- <h2 class="tecn_utl"><img src="https://cdn.discordapp.com/emojis/849345877431681065.png?size=24"> Tecnologias utilizadas:</img></h2>
 O Bot foi inteiramente construído via linguagem *python*, muito conhecida no mercado atualmente por seu alto nível de modernização.
 <br>Versão atual do bot: <strong>v</strong><sup>BETA</sup><br>
 
